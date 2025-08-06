@@ -47,9 +47,9 @@ Le workflow KNIME se décompose en plusieurs étapes :
      Génération d’un fichier .csv contenant toutes les métriques prêtes à être utilisées dans Tableau
 
 ##  Résultats obtenus
-1.Un fichier CSV complet prêt à être réutilisé
+ 1. Un fichier CSV complet prêt à être réutilisé
 
-2.Un dashboard avec  :
+ 2. Un dashboard avec  :
     - des graphiques
     -Score égalité femmes-hommes calculé selon la méthode officielle
     -Recommandations stratégiques proposées pour améliorer le score l’année suivante
