@@ -1,5 +1,7 @@
 #  Workflow KNIME - Diagnostic de l'Égalité Professionnelle Femmes / Hommes
 
+![Vue ensemble](https://github.com/Torkiell-Angoria/Worflow-KNIME---Diagnostic-automatis-de-l-galit-professionnelle-femmes-hommes/blob/main/img/0.%20KNIME%20-%20Vue%20d'ensemble.PNG)
+
 ##  Objectifs du projet
 
 Chaque année avant le 1er mars, les entreprises de plus de 50 salariés doivent publier leur index de l'égalité professionnelle entre les femmes et les hommes, comme l'exige la loi française.
@@ -24,9 +26,11 @@ Documentation officielle	Pour identifier les indicateurs à suivre (guide minist
 ##  Présentation du Worflow
 
 Le workflow KNIME se décompose en plusieurs étapes :
+
 1-2. Chargement et nettoyage des données
     Suppression des doublons, valeurs manquantes, erreurs
     Anonymisation des noms et identifiants pour respecter le RGPD
+![Chargement & nettoyage](https://github.com/Torkiell-Angoria/Worflow-KNIME---Diagnostic-automatis-de-l-galit-professionnelle-femmes-hommes/blob/main/img/1.%20KNIME%20-%20Chargement%20tables%20%26%20Nettoyage.PNG)
 
 3. Préparation des variables
     Création de variables catégorielles.
@@ -43,8 +47,12 @@ Le workflow KNIME se décompose en plusieurs étapes :
     Génération de graphiques illustrant les écarts et répartitions
     Création de dashboard automatisé
 
+![Dashboard](https://github.com/Torkiell-Angoria/Worflow-KNIME---Diagnostic-automatis-de-l-galit-professionnelle-femmes-hommes/blob/main/img/gif-dashboard.gif)
+
 6. & Export des résultats
      Génération d’un fichier .csv contenant toutes les métriques prêtes à être utilisées dans Tableau
+
+   ![Export](https://github.com/Torkiell-Angoria/Worflow-KNIME---Diagnostic-automatis-de-l-galit-professionnelle-femmes-hommes/blob/main/img/5-6.%20Cr%C3%A9ation%20du%20score%20%26%20Dashboard.PNG)
 
 ##  Résultats obtenus
  1. Un fichier CSV complet prêt à être réutilisé
