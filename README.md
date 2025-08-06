@@ -51,8 +51,8 @@ Le workflow KNIME se décompose en plusieurs étapes :
 
  2. Un dashboard avec  :
     - des graphiques
-    -Score égalité femmes-hommes calculé selon la méthode officielle
-    -Recommandations stratégiques proposées pour améliorer le score l’année suivante
+    - Score égalité femmes-hommes calculé selon la méthode officielle
+    - Recommandations stratégiques proposées pour améliorer le score l’année suivante
 
 
 ## Conclusion
